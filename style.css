@@ -136,7 +136,7 @@ ul li a:hover{
         color: #F660AB;
     }
     .home .text span h1{
-        font-size: 2.2rem;
+        font-size: 1.5rem;
     }
     
 }
@@ -350,7 +350,7 @@ ul li a:hover{
 }
 .container .contactInfo .box .text{
     display: flex;
-    margin-left: 7px;
+    margin-left:0px;
     font-size: 16px;
     color: #fff;
     flex-direction: column;
